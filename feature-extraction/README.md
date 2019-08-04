@@ -1,1 +1,1 @@
-- if u want to konw  more detail about code please see my blog: https://www.cnblogs.com/multhree/p/11296945.html
+- if u want to know  more detail about code please see my blog: https://www.cnblogs.com/multhree/p/11296945.html
